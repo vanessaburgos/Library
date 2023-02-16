@@ -1,0 +1,11 @@
+F:\ProyectosSolid\Library\LibraryApp\obj\Debug\LibraryApp.csproj.AssemblyReference.cache
+F:\ProyectosSolid\Library\LibraryApp\obj\Debug\LibraryApp.csproj.SuggestedBindingRedirects.cache
+F:\ProyectosSolid\Library\LibraryApp\obj\Debug\LibraryApp.csproj.CoreCompileInputs.cache
+F:\ProyectosSolid\Library\LibraryApp\bin\Debug\LibraryApp.exe.config
+F:\ProyectosSolid\Library\LibraryApp\bin\Debug\LibraryApp.exe
+F:\ProyectosSolid\Library\LibraryApp\bin\Debug\LibraryApp.pdb
+F:\ProyectosSolid\Library\LibraryApp\bin\Debug\Newtonsoft.Json.dll
+F:\ProyectosSolid\Library\LibraryApp\bin\Debug\Newtonsoft.Json.xml
+F:\ProyectosSolid\Library\LibraryApp\obj\Debug\LibraryApp.csproj.CopyComplete
+F:\ProyectosSolid\Library\LibraryApp\obj\Debug\LibraryApp.exe
+F:\ProyectosSolid\Library\LibraryApp\obj\Debug\LibraryApp.pdb
